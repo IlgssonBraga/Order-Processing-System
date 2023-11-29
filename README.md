@@ -2,7 +2,7 @@
 
 Este é um exemplo simples de um sistema de processamento de pedidos usando RabbitMQ, com dois microserviços em Node.js.
 
-## Microserviços
+## Microsserviços
 
 ### 1. Product Service
 
