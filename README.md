@@ -1,6 +1,6 @@
 # Sistema de Processamento de Pedidos com RabbitMQ
 
-Este é um exemplo simples de um sistema de processamento de pedidos usando RabbitMQ, com dois microserviços em Node.js.
+Este é um exemplo simples de um sistema de processamento de pedidos usando RabbitMQ, com dois microsserviços em Node.js.
 
 ## Microsserviços
 
